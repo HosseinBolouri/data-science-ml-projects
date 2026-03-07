@@ -29,7 +29,7 @@ Data Scientist with industry experience in analytics, statistical modeling, mach
 - Passionate about turning raw business/industrial data into actionable insights — from manufacturing quality control to precision agriculture and supply chain optimization.
 
 ## Tech Stack Highlights
-- **Languages/Tools**: Python, SQL (PostgreSQL), Git
+- **Languages/Tools**: Python, SQL (PostgreSQL)
 - **Python Libraries**: Pandas, NumPy, SciPy, Matplotlib/Seaborn, scikit-learn, TensorFlow, Tkinter
 - **ML/DL**: Regression, Classification, Tree Ensembles (Random Forest, XGBoost), Neural Networks, K-Means Clustering
 - **Statistics & EDA**: Hypothesis testing, ANOVA, distribution analysis, feature engineering
